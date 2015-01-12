@@ -381,7 +381,7 @@ for (var i = 0; i < users.length; i++) {
     users.splice(i, 1);
   }
 };
-//The activity we just did is very much how data works in 'the real world'.
+//The activity we just did is very much how data works in 'the real world'
 
 
 
